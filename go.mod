@@ -1,4 +1,4 @@
-module mysqlxstore
+module github.com/mbetel/mysqlxstore
 
 go 1.25.6
 
